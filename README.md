@@ -1,5 +1,5 @@
 # Machine-Learning-with-Apache-Spark
-IBM course on Coursera | Hands-on labs
+## IBM course on Coursera | Hands-on labs
 
 Start by learning ML fundamentals before unlocking the power of Apache Spark to build and deploy ML models for data engineering applications. Dive into supervised and unsupervised learning techniques and discover the revolutionary possibilities of Generative AI through instructional readings and videos.
 
